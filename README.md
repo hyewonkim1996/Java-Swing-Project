@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-<h1 align="center"> 🤔 나는 개준생이다 🧐 </h1>
+<h1 align="center"> 📚 나는 개준생이다 🧐 </h1>
 
 &nbsp;
 &nbsp;
@@ -37,7 +37,8 @@
 &nbsp;
 
 ## 🚧 개발 환경 
-![image](https://github.com/hyewonkim1996/edu_project/assets/153244876/238b0c23-46e8-4e16-a132-944ce04b90d0)
+![image](https://github.com/hyewonkim1996/Java-Swing-Project/assets/153244876/ef3400da-cf6e-4638-8ff9-00497f06684d)
+
 
 ## ❓ 주요 사용 기술과 이유
 
