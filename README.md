@@ -1,4 +1,5 @@
-![image](https://github.com/hyewonkim1996/edu_project/assets/153244876/8eafaf96-1883-4d6b-ae61-8ae712cc5866)
+![image](https://github.com/hyewonkim1996/Java-Swing-Project/assets/153244876/5e75b014-0f7b-4041-83a6-499be657707f)
+
 
 &nbsp;
 &nbsp;
