@@ -31,7 +31,9 @@
 
 > 개인 목표 : 객체지향 프로그래밍, 인터페이스 및 컬렉션 프레임워크 적용하여 이해도 높이기 / Java Swing 활용하여 자바만으로 시각적인 프로그램 만들기 
 
-> 🔗 [프로젝트 PDF_Link](https://github.com/hyewonkim1996/Java-Swing-Project/blob/main/JAVA%20SWING%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%EB%82%98%EB%8A%94%20%EA%B0%9C%EC%A4%80%EC%83%9D%EC%9D%B4%EB%8B%A4.pdf)
+> 🔗 [프로젝트 시연 영상](https://www.youtube.com/watch?v=GbE_Ux2hzKc)
+
+> 🔗 [프로젝트 PDF](https://github.com/hyewonkim1996/Java-Swing-Project/blob/main/JAVA%20SWING%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20-%20%EB%82%98%EB%8A%94%20%EA%B0%9C%EC%A4%80%EC%83%9D%EC%9D%B4%EB%8B%A4.pdf)
 
 &nbsp;
 &nbsp;
